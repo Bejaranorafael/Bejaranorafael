@@ -4,7 +4,7 @@ Cloud Security / DevOps Support (Semi Senior). Me enfoco en automatización de C
 - 🔭 Actualmente: Automatización de procesos y CI/CD end‑to‑end, administración de nodos Windows, pipelines en Jenkins/GitLab, infraestructura en OpenShift/AWS, gestión de repositorios de imágenes (Nexus).
 - 🌱 Aprendiendo: Kubernetes avanzado (OpenShift), Terraform, seguridad de red y firewalls, métricas/logs con Grafana/Elastic.
 - 💬 Pregúntame sobre: troubleshooting N1/N2, CI/CD, seguridad y accesos (AD/Windows Server), scripting (Bash/PowerShell/Python), observabilidad.
-- 📫 Contáctame: [Email opcional] · [LinkedIn](https://www.linkedin.com/in/rafael-bejarano-2b9514169) · [Portafolio opcional]
+- 📫 Contáctame: rbejarano577@gmail.com · [LinkedIn](https://www.linkedin.com/in/rafael-bejarano-2b9514169) · [Portafolio](https://github.com/Bejaranorafael/portfolio-ci-cd-eks)
 - 🧰 Tech: ![AWS](https://img.shields.io/badge/AWS-cloud-orange) ![Kubernetes](https://img.shields.io/badge/Kubernetes-ops-blue) ![OpenShift](https://img.shields.io/badge/OpenShift-platform-red) ![Docker](https://img.shields.io/badge/Docker-containers-2496ED) ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-D24939) ![GitLab](https://img.shields.io/badge/GitLab-CI/CD-FCA121) ![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4) ![Nexus](https://img.shields.io/badge/Nexus-artifacts-1F1F1F) ![Grafana](https://img.shields.io/badge/Grafana-observability-F46800) ![Elastic](https://img.shields.io/badge/Elastic-logs-005571) ![Linux](https://img.shields.io/badge/Linux-CentOS-blue) ![Windows](https://img.shields.io/badge/Windows%20Server-2016-blue) ![AD](https://img.shields.io/badge/Active%20Directory-security-4B8BBE) ![VMware](https://img.shields.io/badge/VMware-virtualization-607078) ![Jira](https://img.shields.io/badge/Jira-issues-0052CC) ![Wireshark](https://img.shields.io/badge/Wireshark-network-1679A7)
 
 ## Experiencia
@@ -29,12 +29,17 @@ Cloud Security / DevOps Support (Semi Senior). Me enfoco en automatización de C
 - Sistemas: Linux (CentOS), Windows Server 2016, virtualización VMware.
 
 ## Proyectos destacados
+- [Portafolio CI/CD + EKS](https://github.com/Bejaranorafael/portfolio-ci-cd-eks) — monorepo con pipelines, IaC (Terraform), manifiestos K8s/EKS, monitoreo y seguridad.
 - Pipelines CI/CD con Jenkins/GitLab para apps containerizadas — despliegue a OpenShift/AWS, gestión de artefactos en Nexus.
 - Infraestructura como código con Terraform — módulos reutilizables, validación, formato y planes controlados.
 - Observabilidad con Grafana/Elastic — dashboards y alertas para métricas y logs.
 
 ## Métricas rápidas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bejaranorafael&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bejaranorafael&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bejaranorafael&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=dark&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bejaranorafael&layout=compact&langs_count=8&theme=dark&cache_seconds=86400)
 
 > Tip: Fija (Pin) 6 repos que muestren tus pipelines, IaC y observabilidad. Añade “Social preview” (imagen portada) y badges de CI/Coverage.
+
+<!-- Opcional: ocultar lenguajes para que el gráfico te represente mejor -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bejaranorafael&layout=compact&langs_count=8&theme=dark&hide=html,css&cache_seconds=86400) -->
