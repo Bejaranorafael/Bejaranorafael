@@ -39,7 +39,7 @@ Cloud Security / DevOps Support (Semi Senior). Me enfoco en automatización de C
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bejaranorafael&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=dark&cache_seconds=86400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bejaranorafael&layout=compact&langs_count=8&theme=dark&cache_seconds=86400)
 
-> Tip: Fija (Pin) 6 repos que muestren tus pipelines, IaC y observabilidad. Añade “Social preview” (imagen portada) y badges de CI/Coverage.
+
 
 <!-- Opcional: ocultar lenguajes para que el gráfico te represente mejor -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bejaranorafael&layout=compact&langs_count=8&theme=dark&hide=html,css&cache_seconds=86400) -->
